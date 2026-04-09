@@ -1,0 +1,3 @@
+# TalentoIQS
+
+Recruitment analytics platform.
